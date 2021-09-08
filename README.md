@@ -1,4 +1,4 @@
-mongo collection -> BiFast/testdb
+mongo database -> BiFast/testdb
 
 untuk fungsi create, update dan delete berfungsi pada koleksi "testcollection"
 
