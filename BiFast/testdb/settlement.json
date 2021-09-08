@@ -1,0 +1,48 @@
+{ 
+    "_id" : ObjectId("6136dbb8f83e7500e12afbf4"), 
+    "traceNum" : "1", 
+    "timeStamp" : "20210906", 
+    "status" : "in", 
+    "amount" : 1.0, 
+    "messageId" : "13456"
+}
+{ 
+    "_id" : ObjectId("6136dc5ff83e7500e12afbf5"), 
+    "traceNum" : "1", 
+    "timeStamp" : "20210906", 
+    "status" : "out", 
+    "amount" : 1.0, 
+    "messageId" : "24562"
+}
+{ 
+    "_id" : ObjectId("6136dc93f83e7500e12afbf6"), 
+    "traceNum" : "2", 
+    "timeStamp" : "20210907", 
+    "status" : "in", 
+    "amount" : 1.0, 
+    "messageId" : "31209"
+}
+{ 
+    "_id" : ObjectId("6136dca2f83e7500e12afbf7"), 
+    "traceNum" : "2", 
+    "timeStamp" : "20210907", 
+    "status" : "out", 
+    "amount" : 1.0, 
+    "messageId" : "56432"
+}
+{ 
+    "_id" : ObjectId("6136dda0f83e7500e12afbf8"), 
+    "traceNum" : "3", 
+    "timeStamp" : "20210907", 
+    "status" : "in", 
+    "amount" : 1.0, 
+    "messageId" : "65434"
+}
+{ 
+    "_id" : ObjectId("6136ddd3f83e7500e12afbf9"), 
+    "traceNum" : "3", 
+    "timeStamp" : "20210907", 
+    "status" : "out", 
+    "amount" : 2.0, 
+    "messageId" : "98675"
+}

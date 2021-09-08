@@ -1,0 +1,18 @@
+{ 
+    "_id" : ObjectId("61132cf8b240fb423a70b364"), 
+    "name" : "a", 
+    "age" : NumberInt(10), 
+    "city" : "Pallet Town"
+}
+{ 
+    "_id" : ObjectId("6113339f43f6f6a3781852d3"), 
+    "name" : "b", 
+    "age" : NumberInt(10), 
+    "city" : "Pallet Town"
+}
+{ 
+    "_id" : ObjectId("613620f2384a517b3689c636"), 
+    "name" : "a", 
+    "age" : NumberInt(3), 
+    "city" : "kota"
+}
